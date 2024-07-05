@@ -1,0 +1,39 @@
+/*网页字体样式*/
+body{
+	font-size: 10pt;
+	font-family: 宋体;
+}
+/*表格标题样式*/
+#s1{
+	color: #000066;
+	font-size: 46;
+	text-align: center;
+	font-family: 宋体;
+	font-weight: bold; /*字体粗细*/
+}
+/*信息项目字体样式*/
+#s2{
+	font-weight: bold;
+	color: black ;
+	font-size: 18;
+	text-align: right;
+	letter-spacing: 1em/*文字间隔*/
+}
+/*输入提示字体样式*/
+#s3{
+	color: black;
+	font-size: 16;
+	font-family: 幼圆;
+}
+/*幼圆字体样式，较大*/
+#s4{
+	text-align: center;
+	font-family: 幼圆;
+	font-weight: bold;
+	font-size: 28;
+}
+/*超链接样式*/
+	a: link{color: #000066;text-decoration: none}
+	a: visited{color: #000066;text-decoration: none}
+	a: hover{color: #CC0066;text-decoration: none}
+	a: active{color: #0000FF;text-decoration: none}
